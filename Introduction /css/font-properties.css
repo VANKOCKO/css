@@ -1,8 +1,10 @@
 
 /**
 
-            Quelques exemples de font[-familly 
+            Quelques exemples de font-familly
+
 **/
+
 #Georgia{
        font-family: Georgia;
 }
@@ -33,12 +35,44 @@
 
 /**
 
-           font[-size 
+           font-size
+
 **/
+
 #font-size{
       font-size: 12px;
 
 }
+
+#font-stretch{
+    font-stretch: ultra-expanded;
+}
+
+#font-size-adjust{
+    font-size-adjust: 0.80;
+}
+
+
+/**
+
+           font-style
+
+**/
+
+#italic{      
+     font-style: italic;
+}
+
+#normal{
+      font-style: normal;
+}
+
+#oblique{
+      font-style: oblique;
+}
+
+
+
 
 
 
