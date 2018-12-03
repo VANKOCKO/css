@@ -1,0 +1,52 @@
+
+/**
+
+            Quelques exemples de font[-familly 
+**/
+#Georgia{
+       font-family: Georgia;
+}
+#Arial{
+    font-family: Arial;
+}
+#Helvetica{
+    font-family:  Helvetica;
+}
+#sans-serif{
+    font-family:  sans-serif;
+}
+#Impact{
+    font-family:  Impact;
+}
+#Arial-Narrow-Bold{
+    font-family: 'Arial Narrow Bold';
+}
+
+#Trebuchet-MS{
+    font-family: 'Trebuchet MS';
+}
+#Lucida-Sans-Unicode{
+    font-family: 'Lucida Sans Unicode';
+}
+
+
+
+/**
+
+           font[-size 
+**/
+#font-size{
+      font-size: 12px;
+
+}
+
+
+
+
+
+
+
+
+
+
+

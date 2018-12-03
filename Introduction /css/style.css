@@ -1,0 +1,21 @@
+
+@import  "style1.css";
+@import "font-properties.css";
+
+.main{
+ width: 200px;
+ height: 1000px;
+ padding: 10px;
+ background: beige;
+}
+
+h1{
+    font-family: cursive;
+    color: olivedrab;
+    border-bottom: 1px dotted darkgreen;
+    font-size: 150%;
+}
+
+
+
+
