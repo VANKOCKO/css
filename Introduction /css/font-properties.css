@@ -71,6 +71,117 @@
       font-style: oblique;
 }
 
+/**
+
+           text propertie 
+
+**/
+
+#text-color{
+
+    color: olive;
+}
+
+#text-align{
+
+    text-align: center;
+}
+
+#text-indent{
+    text-indent: 20%;
+}
+#letter-spacing{
+    letter-spacing: 5px;
+}
+#word-spacing{
+
+    word-spacing: 50px;
+}
+
+#text-decoration-overline{
+
+     text-decoration: overline;
+
+}
+
+#text-decoration-line-through{
+
+      
+  text-decoration: line-through;
+}
+
+#text-decoration-underline{ 
+
+     text-decoration: underline;
+}
+
+
+#text-transform-uppercase{
+
+     text-transform: uppercase;
+}
+
+#text-transform-lowercase{
+
+    text-transform: lowercase;
+}
+
+#text-transform-capitalize{
+  
+    text-transform: capitalize;
+
+}
+
+#text-direction{
+    direction: rtl;
+}
+
+#text-shadow{
+    text-shadow: 2px 2px 8px orange;
+}
+
+#white-space{
+    white-space: pre;
+}
+
+
+/** 
+
+      height and width
+**/
+
+
+#widht-height{
+
+    width: 200px;
+    height: 300px;
+    background-color: gold;
+}
+
+
+
+/**
+
+   background 
+
+**/ 
+
+
+
+#background-color{
+
+    background-color: silver;
+
+    
+}
+
+
+
+
+
+
+
+
 
 
 
