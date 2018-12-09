@@ -171,8 +171,14 @@
 #background-color{
 
     background-color: silver;
-
     
+}
+
+#background-image{
+     width: 1000px;
+     height: 200px;
+     background-image: url('../images/133.gif');
+    background-repeat: no-repeat;
 }
 
 
